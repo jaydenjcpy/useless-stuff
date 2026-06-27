@@ -9,6 +9,6 @@ I just casually found out you can write javascript code that when entered into t
 4. Paste the code
 5. Here your browser sing :)
 
-# Video Tutorial(Might skip a few steps since I've already done most of the steps above)
+# [Video Tutorial(Might skip a few steps since I've already done most of the steps above)](https://github.com/jaydenjcpy/useless-stuff/blob/main/js-browser-music/JS-Browser-Music-Tutorial.mov)
 
 
