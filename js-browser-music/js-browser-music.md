@@ -11,4 +11,6 @@ I just casually found out you can write javascript code that when entered into t
 
 # [Video Tutorial(Might skip a few steps since I've already done most of the steps above)](https://github.com/jaydenjcpy/useless-stuff/blob/main/js-browser-music/JS-Browser-Music-Tutorial.mov)
 
+# Feel free to PR and make changes (I'm not that good at music, lol)
+
 
