@@ -9,7 +9,7 @@ I just casually found out you can write javascript code that when entered into t
 4. Paste the code
 5. Here your browser sing :)
 
-# [Video Tutorial(Might skip a few steps since I've already done most of the steps above)](https://github.com/jaydenjcpy/useless-stuff/blob/main/js-browser-music/JS-Browser-Music-Tutorial.mov)
+# [Video Tutorial(Might skip a few steps since I've already done most of the steps above)](https://github.com/jaydenjcpy/useless-stuff/blob/main/js-browser-music/JS-Browser-Music-Tutorial.mp4)
 
 # Feel free to PR and make changes (I'm not that good at music, lol)
 
